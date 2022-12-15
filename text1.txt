@@ -2,5 +2,10 @@ I born in 1999 may 6.
 I have done jdc in 2013
 I have done ssc in 2016
 I have done hsc in 2018
+ feature1
 My BBA Honours are running.
 I started learing css,html and javascript from 2021
+=======
+My BBA Honours are running from 2018.
+ main
+
